@@ -19,7 +19,7 @@ To interface a push button, buzzer, and speaker with the AT89C51 microcontroller
 | 7 | Pull-down resistor | 10 kΩ | 1 |
 | 8 | Reset resistor | 10 kΩ | 1 |
 | 9 | Capacitor | 0.1 µF | 1 |
-| 10 | Power supply | Regulated +5 V DC | 1 |
+| 10 | Power supply | Regulated +5 V DC | 1 | 
 | 11 | Connecting wires | As required | — |
 
 ## Circuit Connections
